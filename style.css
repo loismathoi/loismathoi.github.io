@@ -45,6 +45,7 @@ nav {
 main {
   display: grid;
   place-content: center;
+  padding-inline: 1.5rem;
 }
 
 a {
